@@ -19,6 +19,10 @@ import ReactDOM from 'react-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import './index.css';
 import App from './App';
+// import { io } from 'socket.io-client';
+// // var io = require('socket.io-client');
+// var socket = io.connect('http://localhost:8080', {reconnect: true});
+
 
 
 ReactDOM.render(
